@@ -1,4 +1,4 @@
-name    'puppet-redis'
+name    'rhoml-redis'
 version '0.1.0'
 source 'https://github.com/rhoml/puppet-redis.git'
 author 'Rhommel Lamas'
