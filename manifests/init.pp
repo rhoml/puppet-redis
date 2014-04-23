@@ -371,7 +371,6 @@ class redis (
 
   anchor { 'redis::begin': }
     class { '::redis::server': } ->
-    class { '::redis::tools': } ->
   anchor {'redis::end':}
 
 }
